@@ -6,7 +6,7 @@
 
 package op
 
-import tf "github.com/tensorflow/tensorflow/tensorflow/go"
+import tf "github.com/janhartman/tensorflow/tensorflow/go"
 
 // optionalAttr is an intentionally un-exported type to hide
 // details of how optional attributes to operations are implemented.
